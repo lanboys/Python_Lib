@@ -1,0 +1,12 @@
+
+pip 安装指定版本包，如：
+
+pip install lxml==3.7.2
+
+
+
+pip 更新包，如：
+
+ pip install --upgrade xxxxxxx
+ pip install --upgrade pip
+ pip install --upgrade setuptools

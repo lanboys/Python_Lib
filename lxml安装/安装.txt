@@ -1,0 +1,11 @@
+ 方法1：
+
+使用pip install lxml 安装过程中也没有出现问题 
+但是  from lxml import etree 会找不到etree，不过可以正常使用
+
+方法2：
+
+https://blog.csdn.net/wangzhiwei231/article/details/72920908
+
+在 http://www.lfd.uci.edu/~gohlke/pythonlibs/ 找到对应版本的lxml非官方whl文件
+然后正常安装 pip install xxx.whl

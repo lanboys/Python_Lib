@@ -1,0 +1,8 @@
+
+ Python2中一般使用MySqldb来调用Mysql，但是在Python3中不支持该包，使用pymysql来代替了，用法一模一样。
+
+ Python2： pip2 install MySQL_python
+
+ Python3： pip install pymysql
+
+  
